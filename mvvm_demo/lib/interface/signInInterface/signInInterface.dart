@@ -1,0 +1,1 @@
+//ovdje idu interface za servise

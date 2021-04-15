@@ -1,0 +1,1 @@
+//ovdje ide sva logika i ovaj dio koda se poziva iz viewModela

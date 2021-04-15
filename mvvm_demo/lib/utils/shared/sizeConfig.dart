@@ -1,0 +1,1 @@
+//u ovaj cijeli folder idu stvari kao sto su size Config i slicno

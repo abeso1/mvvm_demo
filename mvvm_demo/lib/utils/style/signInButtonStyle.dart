@@ -1,0 +1,1 @@
+//ovdje pravite style za sve widgete
